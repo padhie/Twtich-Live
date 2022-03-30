@@ -1,0 +1,13 @@
+html {
+    height: 35rem;
+    width: 25rem;
+    padding: 0;
+}
+
+body {
+    height: 35rem;
+    width: 25rem;
+    margin: 0;
+
+    border: 1px solid black;
+}

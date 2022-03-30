@@ -1,0 +1,21 @@
+#item-sample {
+    /*display: none;*/
+}
+
+.item {
+    background-color: blue;
+    height: 5rem;
+}
+
+.item .image {
+    float: left;
+    height: 100%;
+    width: 5rem;
+    background-color: chartreuse;
+}
+
+.item .information {
+    height: 100%;
+    width: auto;
+    background-color: violet;
+}
